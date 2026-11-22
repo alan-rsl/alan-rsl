@@ -8,7 +8,6 @@
   <a href="https://www.linkedin.com/in/alanrsl">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Manaus%2C%20AM-Brasil-2EA043?style=for-the-badge" alt="Localização" />
 </p>
 
 ---
@@ -21,6 +20,7 @@ Gosto de trabalhar no ciclo completo de uma solução: entender o problema de ne
 
 - 🛠️ Aplicações web com **React**, **Node.js**, **PostgreSQL**, **Oracle** e **SQL**
 - 🔗 Integrações via **APIs REST**, **Webhooks** e **WebSocket**
+- 🌐 Criação de sites, blogs e landing pages com **WordPress**
 - ⚙️ Automação de processos com **Python**, **n8n**, **Make** e **Power Automate**
 - 📊 BI e indicadores gerenciais com **Power BI**
 
@@ -67,8 +67,6 @@ Automação de ofertas de afiliados no WhatsApp e no Telegram. **[afiliweb.com.b
 | 🏥 **Gestão de Custos** | DRE gerencial e indicadores de custos hospitalares em app web | React · Oracle · SQL |
 | 🛎️ **HSJ Care Connect** | Solicitações e avaliações de pacientes direto do quarto | React · APIs · Webhooks |
 
-> Os projetos do hospital são internos, por isso o código não é público.
-
 ---
 
 ## 🧰 Tecnologias
@@ -101,6 +99,7 @@ Automação de ofertas de afiliados no WhatsApp e no Telegram. **[afiliweb.com.b
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
