@@ -26,15 +26,14 @@ Gosto de trabalhar no ciclo completo de uma solução: entender o problema de ne
 
 ---
 
-## 🛏️ Leitto: projeto em destaque
+## 🛏️ Leitto
 
-**Comunicação entre o paciente no leito e a equipe do hospital.** O paciente escaneia o QR code do leito e faz o pedido pelo celular. O pedido chega em tempo real ao departamento certo, com SLA, e o gestor acompanha tudo num painel.
+Comunicação entre o paciente no leito e a equipe do hospital, via QR code.
 
-- 📱 **App do paciente (PWA):** pedidos com foto, chat com a equipe, avaliação NPS, acompanhante identificado e idiomas pt/es/en
-- 🖥️ **Painel da equipe:** chamados em tempo real com aviso sonoro, conversas, ouvidoria com tratativa e prazos, alertas de detratores
-- 🏢 **Multi-hospital (SaaS):** console da plataforma com 2º fator (TOTP) para gestão de clientes, cobrança e suporte
-- 🔒 **Segurança e auditoria:** sessões em cookie HttpOnly, CSP, protocolos sem duplicidade, histórico imutável protegido por triggers no banco e trilha de auditoria completa
-- ⚡ **Concorrência e tempo real:** WebSocket com reconexão automática e transições de status à prova de cliques simultâneos
+- 📱 Pedidos e chat pelo celular (PWA)
+- ⚡ Chamados em tempo real com SLA
+- 🏢 Multi-hospital (SaaS)
+- 🔒 Auditoria e histórico imutável
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -49,19 +48,14 @@ Gosto de trabalhar no ciclo completo de uma solução: entender o problema de ne
 
 ---
 
-## 🛒 AfiliWeb: SaaS de automação para afiliados
+## 🛒 AfiliWeb
 
-**[afiliweb.com.br](https://afiliweb.com.br)**: produto no ar, com período de teste e assinatura.
+Automação de ofertas de afiliados no WhatsApp e no Telegram. **[afiliweb.com.br](https://afiliweb.com.br)**
 
-Automatiza o trabalho de quem divulga ofertas como afiliado. O sistema **captura a oferta**, **troca o link pelo link de afiliado do usuário**, organiza uma **fila com horários e intervalos** e **publica no WhatsApp e no Telegram**, com foto. Tudo é acompanhado em um painel.
-
-- 🔄 **Pipeline de ofertas:** captura em grupos de origem, busca ou link colado, depois conversão do link, conferência de preço e desconto, fila e publicação
-- 🎯 **Regras de envio:** desconto mínimo, faixa de preço, palavras-chave por grupo, horários permitidos e intervalo entre mensagens
-- ✅ **Modo aprovação:** o usuário revisa, edita ou descarta cada oferta antes do envio
-- 🧠 **Sem repetição:** ofertas já publicadas não voltam, e o preço é conferido de novo antes do envio
-- 🔌 **Integrações:** Mercado Livre (com extensão do Chrome própria para a sessão), Amazon Associados, API oficial de bots do Telegram e WhatsApp com envio espaçado
-- 📊 **Relatórios:** mensagens enviadas e cliques por oferta e por grupo
-- 🔐 **Privacidade (LGPD):** exclusão da conta com remoção dos dados
+- 🔄 Captura a oferta e troca pelo link de afiliado
+- ⏰ Fila com horários e regras de envio
+- 🔌 Integra Mercado Livre e Amazon
+- 📊 Painel com relatórios de envios e cliques
 
 ---
 
@@ -69,9 +63,9 @@ Automatiza o trabalho de quem divulga ofertas como afiliado. O sistema **captura
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| ⛽ **Fuel Intelligence Brasil** | Inteligência de dados do mercado de combustíveis com dados públicos da ANP: ETL, modelagem e indicadores de preços | Python · PostgreSQL · Power BI |
-| 🏥 **Sistema de Gestão de Custos (DRE Gerencial)** | Aplicação web com a DRE gerencial e indicadores de custos hospitalares, integrando várias fontes de dados com detalhamento por consumo, fornecedores e informações financeiras. Acessível pela rede, reduziu a dependência de licenças de BI | React · Oracle · SQL |
-| 🛎️ **HSJ Care Connect** | Sistema em que pacientes e acompanhantes registram solicitações, avaliações e manifestações direto do quarto | React · APIs · Webhooks |
+| ⛽ **Fuel Intelligence Brasil** | Preços de combustíveis com dados da ANP: ETL e indicadores | Python · PostgreSQL · Power BI |
+| 🏥 **Gestão de Custos** | DRE gerencial e indicadores de custos hospitalares em app web | React · Oracle · SQL |
+| 🛎️ **HSJ Care Connect** | Solicitações e avaliações de pacientes direto do quarto | React · APIs · Webhooks |
 
 > Os projetos do hospital são internos, por isso o código não é público.
 
