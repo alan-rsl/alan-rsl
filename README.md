@@ -49,14 +49,29 @@ Gosto de trabalhar no ciclo completo de uma solução: entender o problema de ne
 
 ---
 
+## 🛒 AfiliWeb: SaaS de automação para afiliados
+
+**[afiliweb.com.br](https://afiliweb.com.br)**: produto no ar, com período de teste e assinatura.
+
+Automatiza o trabalho de quem divulga ofertas como afiliado. O sistema **captura a oferta**, **troca o link pelo link de afiliado do usuário**, organiza uma **fila com horários e intervalos** e **publica no WhatsApp e no Telegram**, com foto. Tudo é acompanhado em um painel.
+
+- 🔄 **Pipeline de ofertas:** captura em grupos de origem, busca ou link colado, depois conversão do link, conferência de preço e desconto, fila e publicação
+- 🎯 **Regras de envio:** desconto mínimo, faixa de preço, palavras-chave por grupo, horários permitidos e intervalo entre mensagens
+- ✅ **Modo aprovação:** o usuário revisa, edita ou descarta cada oferta antes do envio
+- 🧠 **Sem repetição:** ofertas já publicadas não voltam, e o preço é conferido de novo antes do envio
+- 🔌 **Integrações:** Mercado Livre (com extensão do Chrome própria para a sessão), Amazon Associados, API oficial de bots do Telegram e WhatsApp com envio espaçado
+- 📊 **Relatórios:** mensagens enviadas e cliques por oferta e por grupo
+- 🔐 **Privacidade (LGPD):** exclusão da conta com remoção dos dados
+
+---
+
 ## 🚀 Outros projetos
 
 | Projeto | O que é | Stack |
 |---|---|---|
 | ⛽ **Fuel Intelligence Brasil** | Inteligência de dados do mercado de combustíveis com dados públicos da ANP: ETL, modelagem e indicadores de preços | Python · PostgreSQL · Power BI |
-| 🏥 **Sistema de Gestão de Custos** | Aplicação web com DRE e indicadores de custos hospitalares, acessível pela rede e reduzindo a dependência de licenças de BI | React · Oracle · SQL |
+| 🏥 **Sistema de Gestão de Custos (DRE Gerencial)** | Aplicação web com a DRE gerencial e indicadores de custos hospitalares, integrando várias fontes de dados com detalhamento por consumo, fornecedores e informações financeiras. Acessível pela rede, reduziu a dependência de licenças de BI | React · Oracle · SQL |
 | 🛎️ **HSJ Care Connect** | Sistema em que pacientes e acompanhantes registram solicitações, avaliações e manifestações direto do quarto | React · APIs · Webhooks |
-| 📈 **DRE Gerencial** | Reestruturação da DRE integrando várias fontes de dados, com detalhamento por consumo, fornecedores e informações financeiras | Power BI · Power Query · SQL |
 
 > Os projetos do hospital são internos, por isso o código não é público.
 
@@ -90,6 +105,7 @@ Gosto de trabalhar no ciclo completo de uma solução: entender o problema de ne
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -102,6 +118,14 @@ Gosto de trabalhar no ciclo completo de uma solução: entender o problema de ne
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" />
+</p>
+
+**Infra & Deploy**
+
+<p>
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/IIS-5E5E5E?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
 </p>
 
 ---
