@@ -63,7 +63,7 @@ Automação de ofertas de afiliados no WhatsApp e no Telegram. **[afiliweb.com.b
 
 Venda de ingressos com visão 3D real do assento antes da compra.
 
-<img src="assets/norte-arena.png" alt="Norte Arena: visão 3D do assento" width="100%" />
+<img src="norte-arena.png" alt="Norte Arena: visão 3D do assento" width="100%" />
 
 - 🎥 Visão 3D do lugar, arrastando para olhar em volta
 - 🗺️ Mapa interativo de setores
