@@ -15,19 +15,41 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou **Analista de Dados** no Hospital Santa Júlia, atuando em **Inovação e Desenvolvimento** e **Custos e Controladoria**.
+Sou **Analista de Dados** no Hospital Santa Júlia, na área de **Inovação e Desenvolvimento**.
 
 Gosto de trabalhar no ciclo completo de uma solução: entender o problema de negócio, modelar os dados, construir integrações e aplicações, automatizar processos e entregar informação que vira decisão.
 
-- 📊 Fechamento mensal de custos hospitalares, orçado x realizado e indicadores gerenciais
-- 🛠️ Aplicações web internas com **React**, **Oracle** e **SQL**
-- 🔗 Integrações via **APIs REST** e **Webhooks**
+- 🛠️ Aplicações web com **React**, **Node.js**, **PostgreSQL**, **Oracle** e **SQL**
+- 🔗 Integrações via **APIs REST**, **Webhooks** e **WebSocket**
 - ⚙️ Automação de processos com **Python**, **n8n**, **Make** e **Power Automate**
-- 🎓 Bacharelando em Administração (UniFatecie)
+- 📊 BI e indicadores gerenciais com **Power BI**
 
 ---
 
-## 🚀 Projetos em destaque
+## 🛏️ Leitto: projeto em destaque
+
+**Comunicação entre o paciente no leito e a equipe do hospital.** O paciente escaneia o QR code do leito e faz o pedido pelo celular. O pedido chega em tempo real ao departamento certo, com SLA, e o gestor acompanha tudo num painel.
+
+- 📱 **App do paciente (PWA):** pedidos com foto, chat com a equipe, avaliação NPS, acompanhante identificado e idiomas pt/es/en
+- 🖥️ **Painel da equipe:** chamados em tempo real com aviso sonoro, conversas, ouvidoria com tratativa e prazos, alertas de detratores
+- 🏢 **Multi-hospital (SaaS):** console da plataforma com 2º fator (TOTP) para gestão de clientes, cobrança e suporte
+- 🔒 **Segurança e auditoria:** sessões em cookie HttpOnly, CSP, protocolos sem duplicidade, histórico imutável protegido por triggers no banco e trilha de auditoria completa
+- ⚡ **Concorrência e tempo real:** WebSocket com reconexão automática e transições de status à prova de cliques simultâneos
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Outros projetos
 
 | Projeto | O que é | Stack |
 |---|---|---|
@@ -65,7 +87,10 @@ Gosto de trabalhar no ciclo completo de uma solução: entender o problema de ne
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
