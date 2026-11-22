@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou **Analista de Dados** no Hospital Santa Júlia, na área de **Inovação e Desenvolvimento**.
+Sou **Analista de Dados** na área de **Inovação e Desenvolvimento**.
 
 Gosto de trabalhar no ciclo completo de uma solução: entender o problema de negócio, modelar os dados, construir integrações e aplicações, automatizar processos e entregar informação que vira decisão.
 
@@ -78,7 +78,7 @@ Venda de ingressos com visão 3D real do assento antes da compra.
 |---|---|---|
 | ⛽ **Fuel Intelligence Brasil** | Preços de combustíveis com dados da ANP: ETL e indicadores | Python · PostgreSQL · Power BI |
 | 🏥 **Gestão de Custos** | DRE gerencial e indicadores de custos hospitalares em app web | React · Oracle · SQL |
-| 🛎️ **HSJ Care Connect** | Solicitações e avaliações de pacientes direto do quarto | React · APIs · Webhooks |
+| 🛎️ **Care Connect** | Solicitações e avaliações de pacientes direto do quarto | React · APIs · Webhooks |
 
 ---
 
