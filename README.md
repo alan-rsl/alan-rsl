@@ -120,12 +120,8 @@ Venda de ingressos com visão 3D real do assento antes da compra.
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alan-rsl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-rsl&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alan-rsl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=alan-rsl&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true&custom_title=Estat%C3%ADsticas%20do%20GitHub%20de%20Alan%20Lima&border_color=7f8b9a" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-rsl&layout=compact&theme=tokyonight&locale=pt-br&custom_title=Tecnologias&border_color=7f8b9a" alt="Tecnologias mais usadas" />
 </p>
 
 ---
