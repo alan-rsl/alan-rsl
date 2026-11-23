@@ -59,7 +59,7 @@ Automação de ofertas de afiliados no WhatsApp e no Telegram. **[afiliweb.com.b
 
 ---
 
-## 🏟️ Norte Arena
+## 🏟️ [Norte Arena](https://github.com/alan-rsl/Norte-Arena)
 
 Venda de ingressos com visão 3D real do assento antes da compra.
 
@@ -142,7 +142,7 @@ Venda de ingressos com visão 3D real do assento antes da compra.
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=alan-rsl&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true&custom_title=Estat%C3%ADsticas%20do%20GitHub%20de%20Alan%20Lima&border_color=7f8b9a" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-rsl&layout=compact&theme=tokyonight&locale=pt-br&custom_title=Tecnologias&border_color=7f8b9a" alt="Tecnologias mais usadas" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-rsl&layout=compact&theme=tokyonight&locale=pt-br&custom_title=Tecnologias&border_color=7f8b9a&v=2" alt="Tecnologias mais usadas" />
 </p>
 
 ---
